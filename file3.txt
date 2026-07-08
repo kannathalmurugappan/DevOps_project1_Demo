@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 Hello master
-=======
 Hello feature
->>>>>>> feature1
+feature1
